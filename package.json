@@ -3,7 +3,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "nuxt build",
+    "build": "nuxt dev",
     "dev": "nuxt dev",
     "lint": "eslint . --fix",
     "generate": "nuxt generate",
